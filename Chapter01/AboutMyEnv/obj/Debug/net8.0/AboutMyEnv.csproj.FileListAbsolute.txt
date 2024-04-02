@@ -1,0 +1,14 @@
+/Users/stivencabrera/RiderProjects/Chapter01/AboutMyEnv/bin/Debug/net8.0/AboutMyEnv
+/Users/stivencabrera/RiderProjects/Chapter01/AboutMyEnv/bin/Debug/net8.0/AboutMyEnv.deps.json
+/Users/stivencabrera/RiderProjects/Chapter01/AboutMyEnv/bin/Debug/net8.0/AboutMyEnv.runtimeconfig.json
+/Users/stivencabrera/RiderProjects/Chapter01/AboutMyEnv/bin/Debug/net8.0/AboutMyEnv.dll
+/Users/stivencabrera/RiderProjects/Chapter01/AboutMyEnv/bin/Debug/net8.0/AboutMyEnv.pdb
+/Users/stivencabrera/RiderProjects/Chapter01/AboutMyEnv/obj/Debug/net8.0/AboutMyEnv.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stivencabrera/RiderProjects/Chapter01/AboutMyEnv/obj/Debug/net8.0/AboutMyEnv.AssemblyInfoInputs.cache
+/Users/stivencabrera/RiderProjects/Chapter01/AboutMyEnv/obj/Debug/net8.0/AboutMyEnv.AssemblyInfo.cs
+/Users/stivencabrera/RiderProjects/Chapter01/AboutMyEnv/obj/Debug/net8.0/AboutMyEnv.csproj.CoreCompileInputs.cache
+/Users/stivencabrera/RiderProjects/Chapter01/AboutMyEnv/obj/Debug/net8.0/AboutMyEnv.dll
+/Users/stivencabrera/RiderProjects/Chapter01/AboutMyEnv/obj/Debug/net8.0/refint/AboutMyEnv.dll
+/Users/stivencabrera/RiderProjects/Chapter01/AboutMyEnv/obj/Debug/net8.0/AboutMyEnv.pdb
+/Users/stivencabrera/RiderProjects/Chapter01/AboutMyEnv/obj/Debug/net8.0/AboutMyEnv.genruntimeconfig.cache
+/Users/stivencabrera/RiderProjects/Chapter01/AboutMyEnv/obj/Debug/net8.0/ref/AboutMyEnv.dll
