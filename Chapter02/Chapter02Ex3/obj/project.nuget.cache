@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+TwWmvvOMUJOnVu9YOpWNTmn7KNx3v/qvEKqbOwC43yXpf6jnBVTk7phvNcVMwEJb8NdajnKsKqPegBB9rm5Pg==",
+  "success": true,
+  "projectFilePath": "/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter02/Chapter02Ex3/Chapter02Ex3.csproj",
+  "expectedPackageFiles": [
+    "/Users/stivencabrera/.nuget/packages/spectre.console/0.48.0/spectre.console.0.48.0.nupkg.sha512",
+    "/Users/stivencabrera/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,71 @@
+﻿using Spectre.Console;
+
+var table = new Table();
+table.AddColumn("Type");
+table.AddColumn("Byte(s) of Memory");
+table.AddColumn("Minimum Value", c => c.RightAligned());
+table.AddColumn("Maximum Value", c => c.RightAligned());
+table.Width(400);
+table.RightAligned();
+
+var sbyteSize = sizeof(sbyte).ToString();
+var byteSize = sizeof(byte).ToString();
+var shortSize = sizeof(short).ToString();
+var ushortSize = sizeof(ushort).ToString();
+var intSize = sizeof(int).ToString();
+var uintSize = sizeof(uint).ToString();
+var longSize = sizeof(long).ToString();
+var ulongSize = sizeof(ulong).ToString();
+var int128Size = 16.ToString();
+var uint128Size = 16.ToString();
+var halfSize = 2.ToString();
+var floatSize = sizeof(float).ToString();
+var doubleSize = sizeof(double).ToString();
+var decimalSize = sizeof(decimal).ToString();
+
+var sbyteMin = sbyte.MinValue.ToString();
+var byteMin = byte.MinValue.ToString();
+var shortMin = short.MinValue.ToString();
+var ushortMin = ushort.MinValue.ToString();
+var intMin = int.MinValue.ToString();
+var uintMin = uint.MinValue.ToString();
+var longMin = long.MinValue.ToString();
+var ulongMin = ulong.MinValue.ToString();
+var int128Min = Int128.MinValue.ToString();
+var uint128Min = UInt128.MinValue.ToString();
+var halfMin = Half.MinValue.ToString();
+var floatMin = float.MinValue.ToString();
+var doubleMin = double.MinValue.ToString();
+var decimalMin = decimal.MinValue.ToString();
+
+var sbyteMax = sbyte.MaxValue.ToString();
+var byteMax = byte.MaxValue.ToString();
+var shortMax = short.MaxValue.ToString();
+var ushortMax = ushort.MaxValue.ToString();
+var intMax = int.MaxValue.ToString();
+var uintMax = uint.MaxValue.ToString();
+var longMax = long.MaxValue.ToString();
+var ulongMax = ulong.MaxValue.ToString();
+var int128Max = Int128.MaxValue.ToString();
+var uint128Max = UInt128.MaxValue.ToString();
+var halfMax = Half.MaxValue.ToString();
+var floatMax = float.MaxValue.ToString();
+var doubleMax = double.MaxValue.ToString();
+var decimalMax = decimal.MaxValue.ToString();
+
+table.AddRow("sbyte", sbyteSize, sbyteMin, sbyteMax);
+table.AddRow("byte", byteSize, byteMin, byteMax);
+table.AddRow("short", shortSize, shortMin, shortMax);
+table.AddRow("ushort", ushortSize, ushortMin, ushortMax);
+table.AddRow("int", intSize, intMin, intMax);
+table.AddRow("uint", uintSize, uintMin, uintMax);
+table.AddRow("long", longSize, longMin, longMax);
+table.AddRow("ulong", ulongSize, ulongMin, ulongMax);
+table.AddRow("int128", int128Size, int128Min, int128Max);
+table.AddRow("uint128", uint128Size, uint128Min, uint128Max);
+table.AddRow("half", halfSize, halfMin, halfMax);
+table.AddRow("float", floatSize, floatMin, floatMax);
+table.AddRow("double", doubleSize, doubleMin, doubleMax);
+table.AddRow("decimal", decimalSize, decimalMin, decimalMax);
+
+AnsiConsole.Write(table);

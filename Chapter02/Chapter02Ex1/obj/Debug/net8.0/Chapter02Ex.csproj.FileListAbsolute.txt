@@ -1,0 +1,15 @@
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter02/Chapter02Ex/obj/Debug/net8.0/Chapter02Ex.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter02/Chapter02Ex/obj/Debug/net8.0/Chapter02Ex.AssemblyInfoInputs.cache
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter02/Chapter02Ex/obj/Debug/net8.0/Chapter02Ex.AssemblyInfo.cs
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter02/Chapter02Ex/obj/Debug/net8.0/Chapter02Ex.csproj.CoreCompileInputs.cache
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter02/Chapter02Ex/obj/Debug/net8.0/Chapter02Ex.sourcelink.json
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter02/Chapter02Ex/bin/Debug/net8.0/Chapter02Ex
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter02/Chapter02Ex/bin/Debug/net8.0/Chapter02Ex.deps.json
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter02/Chapter02Ex/bin/Debug/net8.0/Chapter02Ex.runtimeconfig.json
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter02/Chapter02Ex/bin/Debug/net8.0/Chapter02Ex.dll
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter02/Chapter02Ex/bin/Debug/net8.0/Chapter02Ex.pdb
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter02/Chapter02Ex/obj/Debug/net8.0/Chapter02Ex.dll
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter02/Chapter02Ex/obj/Debug/net8.0/refint/Chapter02Ex.dll
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter02/Chapter02Ex/obj/Debug/net8.0/Chapter02Ex.pdb
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter02/Chapter02Ex/obj/Debug/net8.0/Chapter02Ex.genruntimeconfig.cache
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter02/Chapter02Ex/obj/Debug/net8.0/ref/Chapter02Ex.dll
