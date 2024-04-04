@@ -1,0 +1,15 @@
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/InterationStatements/bin/Debug/net8.0/InterationStatements
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/InterationStatements/bin/Debug/net8.0/InterationStatements.deps.json
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/InterationStatements/bin/Debug/net8.0/InterationStatements.runtimeconfig.json
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/InterationStatements/bin/Debug/net8.0/InterationStatements.dll
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/InterationStatements/bin/Debug/net8.0/InterationStatements.pdb
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/InterationStatements/obj/Debug/net8.0/InterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/InterationStatements/obj/Debug/net8.0/InterationStatements.AssemblyInfoInputs.cache
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/InterationStatements/obj/Debug/net8.0/InterationStatements.AssemblyInfo.cs
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/InterationStatements/obj/Debug/net8.0/InterationStatements.csproj.CoreCompileInputs.cache
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/InterationStatements/obj/Debug/net8.0/InterationStatements.sourcelink.json
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/InterationStatements/obj/Debug/net8.0/InterationStatements.dll
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/InterationStatements/obj/Debug/net8.0/refint/InterationStatements.dll
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/InterationStatements/obj/Debug/net8.0/InterationStatements.pdb
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/InterationStatements/obj/Debug/net8.0/InterationStatements.genruntimeconfig.cache
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/InterationStatements/obj/Debug/net8.0/ref/InterationStatements.dll

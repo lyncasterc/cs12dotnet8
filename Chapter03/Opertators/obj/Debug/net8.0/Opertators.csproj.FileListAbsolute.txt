@@ -1,0 +1,15 @@
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/Opertators/bin/Debug/net8.0/Opertators
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/Opertators/bin/Debug/net8.0/Opertators.deps.json
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/Opertators/bin/Debug/net8.0/Opertators.runtimeconfig.json
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/Opertators/bin/Debug/net8.0/Opertators.dll
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/Opertators/bin/Debug/net8.0/Opertators.pdb
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/Opertators/obj/Debug/net8.0/Opertators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/Opertators/obj/Debug/net8.0/Opertators.AssemblyInfoInputs.cache
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/Opertators/obj/Debug/net8.0/Opertators.AssemblyInfo.cs
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/Opertators/obj/Debug/net8.0/Opertators.csproj.CoreCompileInputs.cache
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/Opertators/obj/Debug/net8.0/Opertators.sourcelink.json
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/Opertators/obj/Debug/net8.0/Opertators.dll
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/Opertators/obj/Debug/net8.0/refint/Opertators.dll
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/Opertators/obj/Debug/net8.0/Opertators.pdb
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/Opertators/obj/Debug/net8.0/Opertators.genruntimeconfig.cache
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/Opertators/obj/Debug/net8.0/ref/Opertators.dll

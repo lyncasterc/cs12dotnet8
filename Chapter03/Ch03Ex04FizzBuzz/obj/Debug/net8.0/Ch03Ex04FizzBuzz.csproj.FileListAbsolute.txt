@@ -1,0 +1,15 @@
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/Ch03Ex04FizzBuzz/bin/Debug/net8.0/Ch03Ex04FizzBuzz
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/Ch03Ex04FizzBuzz/bin/Debug/net8.0/Ch03Ex04FizzBuzz.deps.json
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/Ch03Ex04FizzBuzz/bin/Debug/net8.0/Ch03Ex04FizzBuzz.runtimeconfig.json
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/Ch03Ex04FizzBuzz/bin/Debug/net8.0/Ch03Ex04FizzBuzz.dll
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/Ch03Ex04FizzBuzz/bin/Debug/net8.0/Ch03Ex04FizzBuzz.pdb
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/Ch03Ex04FizzBuzz/obj/Debug/net8.0/Ch03Ex04FizzBuzz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/Ch03Ex04FizzBuzz/obj/Debug/net8.0/Ch03Ex04FizzBuzz.AssemblyInfoInputs.cache
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/Ch03Ex04FizzBuzz/obj/Debug/net8.0/Ch03Ex04FizzBuzz.AssemblyInfo.cs
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/Ch03Ex04FizzBuzz/obj/Debug/net8.0/Ch03Ex04FizzBuzz.csproj.CoreCompileInputs.cache
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/Ch03Ex04FizzBuzz/obj/Debug/net8.0/Ch03Ex04FizzBuzz.sourcelink.json
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/Ch03Ex04FizzBuzz/obj/Debug/net8.0/Ch03Ex04FizzBuzz.dll
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/Ch03Ex04FizzBuzz/obj/Debug/net8.0/refint/Ch03Ex04FizzBuzz.dll
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/Ch03Ex04FizzBuzz/obj/Debug/net8.0/Ch03Ex04FizzBuzz.pdb
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/Ch03Ex04FizzBuzz/obj/Debug/net8.0/Ch03Ex04FizzBuzz.genruntimeconfig.cache
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/Ch03Ex04FizzBuzz/obj/Debug/net8.0/ref/Ch03Ex04FizzBuzz.dll

@@ -1,0 +1,15 @@
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/HandlingExceptions/bin/Debug/net8.0/HandlingExceptions
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/HandlingExceptions/bin/Debug/net8.0/HandlingExceptions.deps.json
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/HandlingExceptions/bin/Debug/net8.0/HandlingExceptions.runtimeconfig.json
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/HandlingExceptions/bin/Debug/net8.0/HandlingExceptions.dll
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/HandlingExceptions/bin/Debug/net8.0/HandlingExceptions.pdb
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/HandlingExceptions/obj/Debug/net8.0/HandlingExceptions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/HandlingExceptions/obj/Debug/net8.0/HandlingExceptions.AssemblyInfoInputs.cache
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/HandlingExceptions/obj/Debug/net8.0/HandlingExceptions.AssemblyInfo.cs
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/HandlingExceptions/obj/Debug/net8.0/HandlingExceptions.csproj.CoreCompileInputs.cache
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/HandlingExceptions/obj/Debug/net8.0/HandlingExceptions.sourcelink.json
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/HandlingExceptions/obj/Debug/net8.0/HandlingExceptions.dll
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/HandlingExceptions/obj/Debug/net8.0/refint/HandlingExceptions.dll
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/HandlingExceptions/obj/Debug/net8.0/HandlingExceptions.pdb
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/HandlingExceptions/obj/Debug/net8.0/HandlingExceptions.genruntimeconfig.cache
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter03/HandlingExceptions/obj/Debug/net8.0/ref/HandlingExceptions.dll
