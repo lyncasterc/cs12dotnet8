@@ -1,0 +1,15 @@
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter04/Instrumenting/bin/Release/net8.0/Instrumenting
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter04/Instrumenting/bin/Release/net8.0/Instrumenting.deps.json
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter04/Instrumenting/bin/Release/net8.0/Instrumenting.runtimeconfig.json
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter04/Instrumenting/bin/Release/net8.0/Instrumenting.dll
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter04/Instrumenting/bin/Release/net8.0/Instrumenting.pdb
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter04/Instrumenting/obj/Release/net8.0/Instrumenting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter04/Instrumenting/obj/Release/net8.0/Instrumenting.AssemblyInfoInputs.cache
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter04/Instrumenting/obj/Release/net8.0/Instrumenting.AssemblyInfo.cs
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter04/Instrumenting/obj/Release/net8.0/Instrumenting.csproj.CoreCompileInputs.cache
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter04/Instrumenting/obj/Release/net8.0/Instrumenting.sourcelink.json
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter04/Instrumenting/obj/Release/net8.0/Instrumenting.dll
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter04/Instrumenting/obj/Release/net8.0/refint/Instrumenting.dll
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter04/Instrumenting/obj/Release/net8.0/Instrumenting.pdb
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter04/Instrumenting/obj/Release/net8.0/Instrumenting.genruntimeconfig.cache
+/Users/stivencabrera/RiderProjects/cs12dotnet8/Chapter04/Instrumenting/obj/Release/net8.0/ref/Instrumenting.dll
